@@ -11,16 +11,6 @@ body {
     background: blueviolet;
 }
 
-button {
-    background: rgb(112, 112, 250);
-    padding: 10px 35px;
-    border: none;
-    border-radius: 8px;
-    color: azure;
-    font-size: 18px;
-    cursor: pointer;
-    color: black;
-}
 
 h1 {
     font-size: 50px;
